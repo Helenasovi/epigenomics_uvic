@@ -1,0 +1,9 @@
+# ENCODE downloads / big data (do NOT push)
+**/data/bigWig.files/
+**/data/bigBed.files/
+**/data/fastq.files/
+
+# Nextflow runtime stuff
+**/work/
+**/.nextflow*
+**/pipeline.log.txt

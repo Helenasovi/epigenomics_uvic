@@ -1,0 +1,2 @@
+ENCFF668DFB	sigmoid colon	
+ENCFF502IJF	stomach	

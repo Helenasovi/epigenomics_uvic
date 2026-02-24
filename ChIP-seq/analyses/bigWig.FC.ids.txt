@@ -1,0 +1,2 @@
+ENCFF886LUE	sigmoid colon	
+ENCFF391KDD	stomach	
