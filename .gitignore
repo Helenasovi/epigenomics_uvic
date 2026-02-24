@@ -7,3 +7,26 @@
 **/work/
 **/.nextflow*
 **/pipeline.log.txt
+
+# big genomics files (don't commit)
+*.fastq
+*.fastq.gz
+*.fq.gz
+*.bam
+*.bai
+*.bigWig
+*.bigBed
+*.bw
+*.bb
+
+# big annotation / references
+*.gtf
+*.gtf.gz
+*.fa
+*.fa.gz
+*.fasta
+*.fasta.gz
+
+# common pipeline/runtime folders
+work/
+.nextflow*
