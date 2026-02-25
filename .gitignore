@@ -30,3 +30,19 @@
 # common pipeline/runtime folders
 work/
 .nextflow*
+
+# Large genomics files
+*.bigBed
+*.bigWig
+*.fastq
+*.fastq.gz
+*.bam
+*.bed
+
+# ATAC/ChIP data folders
+ATAC-seq/data/
+ChIP-seq/data/
+
+# md5 check files
+*.md5
+
