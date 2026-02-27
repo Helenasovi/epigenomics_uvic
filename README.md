@@ -1,7 +1,5 @@
----
 
 ## Section 4 – ATAC-seq downstream analyses
-
 
 
 **Results**
@@ -15,8 +13,6 @@
   - Total peaks: 110,999
   - Peaks in promoters: 52,229
   - Peaks outside genes: 37,035
-
----
 
 ## Section 5 – Distal regulatory activity
 
