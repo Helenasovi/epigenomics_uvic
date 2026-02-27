@@ -1,0 +1,2 @@
+ENCFF872UHN	sigmoid colon	H3K27ac-human
+ENCFF977LBD	stomach	H3K27ac-human
